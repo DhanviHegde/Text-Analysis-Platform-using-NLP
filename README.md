@@ -33,3 +33,9 @@ Plotly – for interactive visualizations
 
 Easily analyze customer reviews, social media comments, product feedback, or any large-scale text data to gain actionable insights about user sentiment, emotional tone, and language patterns.
 
+![Webpage Screenshot](https://github.com/DhanviHegde/Text-Analysis-Platform-using-NLP/blob/main/csv-file-upload.jpg?raw=true)
+![Webpage Screenshot]()
+![Webpage Screenshot]()
+![Webpage Screenshot]()
+![Webpage Screenshot]()
+
